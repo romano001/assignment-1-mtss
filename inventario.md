@@ -3,3 +3,4 @@ schede_madri
 "processori"
 "Elettronica padovana" 
 ## componenti
+"## periferiche" 
